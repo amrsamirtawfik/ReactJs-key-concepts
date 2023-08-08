@@ -5,7 +5,9 @@ A simple website created using react Js to navigate to the react documentation
 YOU MUST HAVE NODE TO TO INSTALL THE PROJECT 
 NODE SETUP: https://nodejs.org/en/download
 1) Clone the repo into your local machine
+ ```console
   git clone https://github.com/amrsamirtawfik/ReactJs-key-concepts.git
+```
 2) Navigate to the created directory 
   cd ReactJs-key-concepts
 3) Type
