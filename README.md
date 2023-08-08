@@ -9,14 +9,14 @@ NODE SETUP: https://nodejs.org/en/download
   git clone https://github.com/amrsamirtawfik/ReactJs-key-concepts.git
 ```
 2) Navigate to the created directory
-   ```console
+ ```console
   cd ReactJs-key-concepts 
-  ```
+ ```
 3)
 ```console
   npm install
- ```
+```
 4)
-   ```console
+  ```console
   npm start
   ```
