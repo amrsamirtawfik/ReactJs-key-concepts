@@ -6,17 +6,17 @@ YOU MUST HAVE NODE TO TO INSTALL THE PROJECT
 NODE SETUP: https://nodejs.org/en/download
 1) Clone the repo into your local machine
  ```console
-  git clone https://github.com/amrsamirtawfik/ReactJs-key-concepts.git
+git clone https://github.com/amrsamirtawfik/ReactJs-key-concepts.git
 ```
 2) Navigate to the created directory
  ```console
-  cd ReactJs-key-concepts 
+cd ReactJs-key-concepts 
  ```
 3)
 ```console
-  npm install
+npm install
 ```
 4)
-  ```console
+```console
   npm start
-  ```
+```
